@@ -1,4 +1,4 @@
-## Architecture
+## Architectures
 
 View-Model-Domain(UseCase)-Repository-Data(Local/Remote)
 
